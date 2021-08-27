@@ -1,6 +1,6 @@
 # Graph
 
-#This is for my own personal learning and interest. Hope it will be useful for others who might need it.
+This is for my own personal learning and interest. Hope it will be useful for others who might need it.
 
 # Setup
 1. Ensure you have set up a S3 Bucket with the data you want to read from
